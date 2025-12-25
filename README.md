@@ -13,7 +13,7 @@ This repo contains solutions to the [Advent of Code 2025](https://adventofcode.c
 | [Day 4 \*\*](04-printing-department) | | | |
 | [Day 5 \*\*](05-cafeteria) | | | |
 | [Day 6 \*\*](06-trash-compactor) | | | |
-|  | | | |
+| [Day 7 \*\*](07-laboratories) | | | |
 
 **Christmas day** - Day 25
 
