@@ -7,7 +7,7 @@ This repo contains solutions to the [Advent of Code 2025](https://adventofcode.c
 
 | Week 1 | Week 2 | Week 3 | Week 4 |
 | - | - | - | - |
-| [Day 1 \*\*](01-secret-entrance) | | | |
+| [Day 1 \*\*](01-secret-entrance) | [Day 8 \*\*](08-playground) | | |
 | [Day 2 \*\*](02-gift-shop) | | | |
 | [Day 3 \*\*](03-lobby) | | | |
 | [Day 4 \*\*](04-printing-department) | | | |
